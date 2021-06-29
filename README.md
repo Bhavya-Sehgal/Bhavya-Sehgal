@@ -1,2 +1,2 @@
 # Bhavya-Sehgal
-I am a Front-end Developer.
+I am a Full Stack Web Developer.
