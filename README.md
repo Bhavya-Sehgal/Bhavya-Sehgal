@@ -4,8 +4,6 @@
 
 <h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
-![age](https://img.shields.io/badge/age-20-blueviolet)
-![living](https://img.shields.io/badge/living-Delhi-ff69b4)
 <!-- <p >
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif"  />
 </p> -->
