@@ -1,14 +1,14 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arpit-AD&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
  -->
-<h1>Hi there 👋, I'm Arpit Das</h1>
+<h1>Hi there 👋, I'm Bhavya Sehgal</h1>
 
 <h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 ![age](https://img.shields.io/badge/age-20-blueviolet)
 ![living](https://img.shields.io/badge/living-Delhi-ff69b4)
-<p >
+<!-- <p >
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif"  />
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
@@ -75,7 +75,7 @@
 
 <br>
 
-[![Arpits' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpit-AD&show_icons=true&title_color=fff&icon_color=blue&text_color=909090&bg_color=101010 )]()
+[![Bhavyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavya-Sehgal&show_icons=true&title_color=fff&icon_color=blue&text_color=909090&bg_color=101010 )]()
 
 
 <br>
@@ -83,12 +83,11 @@
 <div align="center">
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
-  
+
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/) -->
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=arpit2001.ad@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arpit-das-9210a01a5/)
-[<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Arpitad10)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arpit_ad_/)
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/adarpit/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhavyasehgal05@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bhavya-sehgal-8914661a2/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bhavyasehgal._/)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/Bhavya-Sehgal/)
 
 </div>
