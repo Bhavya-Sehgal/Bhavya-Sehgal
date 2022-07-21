@@ -18,9 +18,9 @@
 
 - ⚡ What I like to do: **I design and code beautifully simple things and I love what I do.**
 
-- ⚡ Fun fact: **sed lymf vro**
+- ⚡ Fun fact: **Eat Sleep Code Repeat**
 
-- 📝 Please have a look at my **[Resume](https://drive.google.com/file/d/18asCQbX2rh9yn6hM-ZnV6jMTaw-D0a5p/view?usp=sharing) for more details about me.**
+- 📝 Please have a look at my **[Resume](https://bit.ly/resumeBS) for more details about me.**
 
 
 
